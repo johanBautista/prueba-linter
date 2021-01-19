@@ -1,0 +1,19 @@
+{
+  "name": "1-linters",
+  "version": "1.0.0",
+  "description": "ejercicio para configurar lintern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanBautista/prueba-linter.git"
+  },
+  "author": "johanB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanBautista/prueba-linter/issues"
+  },
+  "homepage": "https://github.com/johanBautista/prueba-linter#readme"
+}
